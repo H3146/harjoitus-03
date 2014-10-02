@@ -1,0 +1,9 @@
+//HARJOITUS 3.1 JANI TUOMAALA H3146
+#include <iostream>
+using namespace std;
+void main(void)
+{
+	cout << "Jani Tuomaala\n" //Nimi ja rivinvaihto jotta nimi ja osoite olisivat allekkain.
+			"Palstatie\n"; //Osoite ja rivinvaihto, jotta "Press any key" ei tulisi samalle riville.
+}
+
